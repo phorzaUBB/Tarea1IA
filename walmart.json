@@ -1,0 +1,94 @@
+[
+    {
+        "Size": 151315,
+        "Type": 2,
+        "IsHoliday": 0,
+        "Event_Type": "ThanksGiving",
+        "Dept": 1
+    },
+{
+  "Size": 92638,
+  "Type": 1,
+  "IsHoliday": 1,
+  "Event_Type": "Christmas",
+  "Dept": 51
+}
+,
+{
+  "Size": 151315,
+  "Type": 1,
+  "IsHoliday": 1,
+  "Event_Type": "Labour Day",
+  "Dept": 99
+},
+{
+  "Size": 202307,
+  "Type": 2,
+  "IsHoliday": 0,
+  "Event_Type": "Normal",
+  "Dept": 16
+},
+{
+  "Size": 128107,
+  "Type": 3,
+  "IsHoliday": 0,
+  "Event_Type": "Normal",
+  "Dept": 38
+},
+{
+  "Size": 114533,
+  "Type": 3,
+  "IsHoliday": 1,
+  "Event_Type": "Super Bowl",
+  "Dept": 74
+},
+{
+  "Size": 151315,
+  "Type": 2,
+  "IsHoliday": 1,
+  "Event_Type": "Christmas",
+  "Dept": 52
+},
+{
+  "Size": 39910,
+  "Type": 1,
+  "IsHoliday": 1,
+  "Event_Type": "Labour Day",
+  "Dept": 19
+},
+{
+  "Size": 140167,
+  "Type": 2,
+  "IsHoliday": 0,
+  "Event_Type": "Normal",
+  "Dept": 87
+},
+{
+  "Size": 126512,
+  "Type": 3,
+  "IsHoliday": 0,
+  "Event_Type": "Normal",
+  "Dept": 80
+},
+{
+  "Size": 184109,
+  "Type": 1,
+  "IsHoliday": 1,
+  "Event_Type": "Thanksgiving",
+  "Dept": 51
+},
+{
+  "Size": 203007,
+  "Type": 2,
+  "IsHoliday": 1,
+  "Event_Type": "Super Bowl",
+  "Dept": 1
+},
+{
+  "Size": 57197,
+  "Type": 3,
+  "IsHoliday": 0,
+  "Event_Type": "Normal",
+  "Dept": 26
+}
+]
